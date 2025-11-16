@@ -1,4 +1,3 @@
-```markdown
 # Learning Resources
 
 This repository provides organized reference material and implementations across core software development topics. It aims to offer clear explanations, practical code samples, and concise study resources for foundational and intermediate concepts.
